@@ -1,0 +1,271 @@
+{
+  "meta": {
+    "accountId": "9797074116",
+    "senderID": "61575254459544",
+    "key": "koal",
+    "mode": "cpr",
+    "cprThreshold": 50,
+    "start": "2025-09-21 09:50",
+    "end": "2025-09-21 12:35",
+    "finalMatchCount": 5,
+    "champion": null
+  },
+  "teams": [
+    {
+      "teamKey": "27198028**,45835979**,76867831**,99940037**",
+      "displayName": "NTN.Reŋ",
+      "playerIds": [
+        "27198028**",
+        "45835979**",
+        "76867831**",
+        "99940037**"
+      ],
+      "totalScore": 82,
+      "totalKills": 47,
+      "totalBooyahs": 1,
+      "BooyahsGame": [
+        1
+      ],
+      "isEligible": true,
+      "accountNames": [
+        "NTN.Reŋ",
+        ".Dlow!",
+        "nhth1en.eg",
+        "likechoXMạnh"
+      ],
+      "Top": 1
+    },
+    {
+      "teamKey": "20125845**,51082787**,6599993**,8000497**",
+      "displayName": "ʷᵃᵍᵃⁿʰᵏʰᵃ",
+      "playerIds": [
+        "20125845**",
+        "51082787**",
+        "6599993**",
+        "8000497**"
+      ],
+      "totalScore": 76,
+      "totalKills": 32,
+      "totalBooyahs": 1,
+      "BooyahsGame": [
+        3
+      ],
+      "isEligible": true,
+      "accountNames": [
+        "ʷᵃᵍᵃⁿʰᵏʰᵃ",
+        "thwnvy",
+        "GS丶CURUS",
+        "KSĐヽxPain"
+      ],
+      "Top": 2
+    },
+    {
+      "teamKey": "14697668**,20249218**,31990320**,52423395**",
+      "displayName": "@Chú3Quận9",
+      "playerIds": [
+        "14697668**",
+        "20249218**",
+        "31990320**",
+        "52423395**",
+        "3169641**"
+      ],
+      "totalScore": 73,
+      "totalKills": 45,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": true,
+      "accountNames": [
+        "@Chú3Quận9",
+        "@_ln.kaa♬",
+        "ƊƘ丶NgHuuSi",
+        "trung意"
+      ],
+      "Top": 3
+    },
+    {
+      "teamKey": "104417430**,74208500**,89599142**,97970741**",
+      "displayName": "LHoangViet౨ৎ",
+      "playerIds": [
+        "104417430**",
+        "74208500**",
+        "89599142**",
+        "97970741**",
+        "79040457**",
+        "95688269**",
+        "30326178**"
+      ],
+      "totalScore": 68,
+      "totalKills": 35,
+      "totalBooyahs": 2,
+      "BooyahsGame": [
+        4,
+        5
+      ],
+      "isEligible": true,
+      "accountNames": [
+        "LHoangViet౨ৎ",
+        "FY.ALEX5.0",
+        "DASヽXpozyシ☆",
+        "DAS丶ThanhDat"
+      ],
+      "Top": 4
+    },
+    {
+      "teamKey": "47411570**,61389684**,65275803**,72262085**",
+      "displayName": ".daicalop9.!",
+      "playerIds": [
+        "47411570**",
+        "61389684**",
+        "65275803**",
+        "72262085**"
+      ],
+      "totalScore": 64,
+      "totalKills": 35,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": true,
+      "accountNames": [
+        ".daicalop9.!",
+        "THECRUZ9.BRU",
+        "miss vduc><",
+        "ChủTịchBoon"
+      ],
+      "Top": 5
+    },
+    {
+      "teamKey": "19452050**,24637036**,3634171**,78108480**",
+      "displayName": "quockhanh801",
+      "playerIds": [
+        "19452050**",
+        "24637036**",
+        "3634171**",
+        "78108480**",
+        "8554851**"
+      ],
+      "totalScore": 49,
+      "totalKills": 21,
+      "totalBooyahs": 1,
+      "BooyahsGame": [
+        2
+      ],
+      "isEligible": false,
+      "accountNames": [
+        "quockhanh801",
+        "‎تورإليحصان",
+        "x‎Tkha09",
+        "kingjarkar"
+      ],
+      "Top": 6
+    },
+    {
+      "teamKey": "1991242**,64564008**,76964040**",
+      "displayName": "vdea ᴴᵘᵉᴹᵃⁿ",
+      "playerIds": [
+        "1991242**",
+        "64564008**",
+        "76964040**",
+        "117556186**"
+      ],
+      "totalScore": 41,
+      "totalKills": 16,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "vdea ᴴᵘᵉᴹᵃⁿ",
+        "PYP丶Redbull?",
+        "PYP.jelly"
+      ],
+      "Top": 7
+    },
+    {
+      "teamKey": "120273601**,37541980**,42054179**,45384364**",
+      "displayName": "redamancy౨ৎ˚",
+      "playerIds": [
+        "120273601**",
+        "37541980**",
+        "42054179**",
+        "45384364**",
+        "27820939**"
+      ],
+      "totalScore": 34,
+      "totalKills": 12,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "redamancy౨ৎ˚",
+        "SF　Levi女",
+        "PhậtĐâyCon",
+        "THÀNHᰔᩚLONG"
+      ],
+      "Top": 8
+    },
+    {
+      "teamKey": "65758982**,761300**,80308662**,81212535**",
+      "displayName": "CB┊Vualìđòn",
+      "playerIds": [
+        "65758982**",
+        "761300**",
+        "80308662**",
+        "81212535**"
+      ],
+      "totalScore": 31,
+      "totalKills": 17,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "CB┊Vualìđòn",
+        "iuMeoww",
+        "USA☞Tearless",
+        "USA☞7wish"
+      ],
+      "Top": 9
+    },
+    {
+      "teamKey": "2765967**,44855689**,73082355**,76830365**",
+      "displayName": "adu a hau.",
+      "playerIds": [
+        "2765967**",
+        "44855689**",
+        "73082355**",
+        "76830365**"
+      ],
+      "totalScore": 23,
+      "totalKills": 6,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "adu a hau.",
+        "ᴍᴄ　Gut愛",
+        "k10 22cm",
+        "C5F丶FOXNIGHT"
+      ],
+      "Top": 10
+    },
+    {
+      "teamKey": "14198896**,58413884**,62126280**,936474**",
+      "displayName": "Ronaldo7亗!",
+      "playerIds": [
+        "14198896**",
+        "58413884**",
+        "62126280**",
+        "936474**"
+      ],
+      "totalScore": 3,
+      "totalKills": 1,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "Ronaldo7亗!",
+        "NhânNgủSớm",
+        "❾❶❶︵LeeBaoᥫᩣ",
+        "IAM.WASSANA×"
+      ],
+      "Top": 11
+    }
+  ]
+}

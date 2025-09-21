@@ -1,0 +1,222 @@
+{
+  "meta": {
+    "accountId": "485641857",
+    "senderID": "100039714753236",
+    "key": "scoring",
+    "mode": "normal",
+    "cprThreshold": null,
+    "start": "2025-09-11 13:00",
+    "end": "2025-09-11 15:00",
+    "finalMatchCount": 3,
+    "champion": null
+  },
+  "teams": [
+    {
+      "teamKey": "22915421**,24343153**,4856418**,924583**",
+      "displayName": "ngphz",
+      "playerIds": [
+        "22915421**",
+        "24343153**",
+        "4856418**",
+        "924583**",
+        "40876188**"
+      ],
+      "totalScore": 60,
+      "totalKills": 31,
+      "totalBooyahs": 2,
+      "BooyahsGame": [
+        2,
+        3
+      ],
+      "isEligible": false,
+      "accountNames": [
+        "ngphz",
+        "ｃｈｕốｉđｚａｉｉ౨ৎ",
+        "KOW.HaHaHa",
+        "woaw.ghastbe"
+      ],
+      "Top": 1
+    },
+    {
+      "teamKey": "17725002**,43696134**,75290036**,8075164**",
+      "displayName": "DIETER?",
+      "playerIds": [
+        "17725002**",
+        "43696134**",
+        "75290036**",
+        "8075164**"
+      ],
+      "totalScore": 58,
+      "totalKills": 34,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "DIETER?",
+        "1giờdingu'><",
+        "CB┊tphat..?",
+        "cbao123xyz"
+      ],
+      "Top": 2
+    },
+    {
+      "teamKey": "1545927**,26645456**,39406262**,70360947**",
+      "displayName": "QuốcTài:)",
+      "playerIds": [
+        "1545927**",
+        "26645456**",
+        "39406262**",
+        "70360947**"
+      ],
+      "totalScore": 45,
+      "totalKills": 18,
+      "totalBooyahs": 1,
+      "BooyahsGame": [
+        1
+      ],
+      "isEligible": false,
+      "accountNames": [
+        "QuốcTài:)",
+        "anh nuwng qa",
+        "NTN.TheRex",
+        "mùa đôg 0 em"
+      ],
+      "Top": 3
+    },
+    {
+      "teamKey": "1301779**,29393605**,3734843**,69621525**",
+      "displayName": "ap.biu?",
+      "playerIds": [
+        "1301779**",
+        "29393605**",
+        "3734843**",
+        "69621525**"
+      ],
+      "totalScore": 39,
+      "totalKills": 23,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "ap.biu?",
+        "boruto_1712",
+        "mhiewdang_iu",
+        "Singhuynh"
+      ],
+      "Top": 4
+    },
+    {
+      "teamKey": "17556201**,89226781**,93382789**,97035774**",
+      "displayName": "đamtientoan",
+      "playerIds": [
+        "17556201**",
+        "89226781**",
+        "93382789**",
+        "97035774**",
+        "40268070**",
+        "18251082**"
+      ],
+      "totalScore": 29,
+      "totalKills": 9,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "đamtientoan",
+        "vc　e　thien",
+        "νũđăиɢ☂",
+        "wag.hajun#"
+      ],
+      "Top": 5
+    },
+    {
+      "teamKey": "1850535**,35393510**,73844051**,9578524**",
+      "displayName": "7ɴɢàʏɴʜớᴇ",
+      "playerIds": [
+        "1850535**",
+        "35393510**",
+        "73844051**",
+        "9578524**"
+      ],
+      "totalScore": 26,
+      "totalKills": 10,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "7ɴɢàʏɴʜớᴇ",
+        "nhattminh><",
+        "wag.felix7",
+        "ᴋᴜᴛᴏᴍ"
+      ],
+      "Top": 6
+    },
+    {
+      "teamKey": "17272437**,23369965**,30881045**,77190150**",
+      "displayName": "ᴺᵒ　PolPot",
+      "playerIds": [
+        "17272437**",
+        "23369965**",
+        "30881045**",
+        "77190150**"
+      ],
+      "totalScore": 15,
+      "totalKills": 5,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "ᴺᵒ　PolPot",
+        "TobiiizZz",
+        "ɪʟᴏᴠᴇғɪғire",
+        "tn'亗"
+      ],
+      "Top": 7
+    },
+    {
+      "teamKey": "20549657**,25154569**,27821439**,55080868**",
+      "displayName": "woaw.EmRom",
+      "playerIds": [
+        "20549657**",
+        "25154569**",
+        "27821439**",
+        "55080868**",
+        "46029069**"
+      ],
+      "totalScore": 12,
+      "totalKills": 4,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "woaw.EmRom",
+        "BOM.069",
+        "kduyhaha",
+        "Woaw.BUM㊋"
+      ],
+      "Top": 8
+    },
+    {
+      "teamKey": "10967865**,19631964**,26102135**,43927661**",
+      "displayName": "GOODYL4NEX",
+      "playerIds": [
+        "10967865**",
+        "19631964**",
+        "26102135**",
+        "43927661**"
+      ],
+      "totalScore": 11,
+      "totalKills": 2,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "GOODYL4NEX",
+        "nhoenhiu..",
+        "MLemMLem`",
+        "tunglam.2504"
+      ],
+      "Top": 9
+    }
+  ]
+}

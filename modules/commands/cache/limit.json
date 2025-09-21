@@ -1,0 +1,94 @@
+{
+    "2391150447948650": {
+        "game": true,
+        "anti": true
+    },
+    "24141892488740392": {
+        "game": false,
+        "anti": true
+    },
+    "1472951803853445": {
+        "game": false,
+        "anti": true
+    },
+    "805315831926362": {
+        "game": true,
+        "anti": true
+    },
+    "1877223323135685": {
+        "game": false,
+        "anti": true
+    },
+    "9308845402514813": {
+        "game": true,
+        "anti": true
+    },
+    "706852649059062": {
+        "game": false,
+        "anti": true
+    },
+    "1712547976103626": {
+        "game": false,
+        "anti": true
+    },
+    "1288284669344524": {
+        "game": false,
+        "anti": true
+    },
+    "1242951664245956": {
+        "game": true,
+        "anti": true
+    },
+    "1312643743750665": {
+        "game": true,
+        "anti": false,
+        "autopost": false
+    },
+    "23977288145264699": {
+        "game": false,
+        "anti": true,
+        "autopost": true
+    },
+    "9867282606705948": {
+        "game": false,
+        "anti": true
+    },
+    "9518751858247573": {
+        "game": false,
+        "anti": true
+    },
+    "1335285238158304": {
+        "game": true,
+        "anti": true
+    },
+    "1838336283754940": {
+        "game": false,
+        "anti": true,
+        "autopost": true
+    },
+    "3225116560979140": {
+        "game": false,
+        "anti": true,
+        "autopost": true
+    },
+    "8669477999784667": {
+        "game": false,
+        "anti": true,
+        "autopost": false
+    },
+    "30943982661882528": {
+        "game": false,
+        "anti": true,
+        "autopost": false
+    },
+    "722507357501540": {
+        "game": true,
+        "anti": true,
+        "autopost": true
+    },
+    "1149918360323678": {
+        "game": false,
+        "anti": true,
+        "autopost": false
+    }
+}

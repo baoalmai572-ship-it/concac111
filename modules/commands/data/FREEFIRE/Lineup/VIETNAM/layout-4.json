@@ -1,0 +1,31 @@
+{
+  "tengiai": { "x": 2150, "y": 420, "lineHeight": 5, "color": "#FFFFFF", "size": 75.6, "font": "Prompt", "bold": true, "italic": false, "rotate": 0, "align": "center" },
+  "tenteam": { "x": 2550, "y": 2150, "lineHeight": 5, "color": "#FFFFFF", "size": 236, "font": "Prompt", "bold": true, "italic": false, "rotate": 0, "align": "center" },
+  "logo": { "x": 1290, "y": 2150, "w": 310, "h": 310, "rotate": -1.3 },
+  "thanhvien": [
+    {
+      "name": { "x": 1218, "y": 1790, "lineHeight": 5, "color": "#FFF100", "size": 80, "font": "Prompt", "bold": true, "italic": false, "rotate": 0, "align": "center" },
+      "pos":  { "x": 88000, "y": 1765.1, "lineHeight": 5, "color": "#FFFFFF", "size": 50, "font": "Prompt", "bold": true, "italic": true, "rotate": 0, "align": "left" },
+	  "logo": { "x": 134444.9, "y": 930.4, "w": 180, "h": 180, "rotate": 0 },
+	  "avatar": { "x": 957, "y": 758, "w": 800.7, "h": 970.1, "rotate": 0 }
+    },
+    {
+      "name": { "x": 2057, "y": 1790, "lineHeight": 5, "color": "#FFF100", "size": 80, "font": "Prompt", "bold": true, "italic": false, "rotate": 0, "align": "center" },
+      "pos":  { "x": 165006, "y": 1765.1, "lineHeight": 5, "color": "#FFFFFF", "size": 50, "font": "Prompt", "bold": true, "italic": true, "rotate": 0, "align": "left" },
+	  "logo": { "x": 215100.700, "y": 973.4, "w": 180, "h": 180, "rotate": 0 },
+	  "avatar": { "x": 1731, "y": 758, "w": 800.7, "h": 970.1, "rotate": 0 }
+    },
+    {
+      "name": { "x": 2837, "y": 1790, "lineHeight": 5, "color": "#FFF100", "size": 80, "font": "Prompt", "bold": true, "italic": false, "rotate": 0, "align": "center" },
+      "pos":  { "x": 2448.900, "y": 1765.1, "lineHeight": 5, "color": "#FFFFFF", "size": 50, "font": "Prompt", "bold": true, "italic": true, "rotate": 0, "align": "left" },
+	  "logo": { "x": 297200.300, "y": 986.4, "w": 180, "h": 180, "rotate": 0 },
+	  "avatar": { "x": 2486, "y": 758, "w": 800.7, "h": 970.1, "rotate": 0 }
+    },
+    {
+      "name": { "x": 3583, "y": 1790, "lineHeight": 5, "color": "#FFF100", "size": 80, "font": "Prompt", "bold": true, "italic": false, "rotate": 0, "align": "center" },
+      "pos":  { "x": 322800.100, "y": 1765.1, "lineHeight": 5, "color": "#FFFFFF", "size": 50, "font": "Prompt", "bold": true, "italic": true, "rotate": 0, "align": "left" },
+	  "logo": { "x": 377300, "y": 967.7, "w": 180, "h": 180, "rotate": 0 },
+	  "avatar": { "x": 3266, "y": 758, "w": 800.7, "h": 970.1, "rotate": 0 }
+    }
+  ]
+}

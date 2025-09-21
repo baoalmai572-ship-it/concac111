@@ -1,0 +1,122 @@
+{
+  "limit": 12,
+  "header": {
+    "customName": { "x": 1850, "y": 2515, "color": "#003884", "size": 75, "font": "Prompt", "bold": true, "align": "left" },
+    "customName2": { "x": 1927, "y": 400, "color": "#FFFFFF", "size": 60, "font": "Prompt", "bold": true, "align": "left" },
+    "customTime": { "x": 2589, "y": 400, "color": "#FFFFFF", "size": 60, "font": "Prompt", "bold": true, "align": "left" },
+    "logos": [
+      { "top": "1", "x": 320, "y": 1800, "w": 390, "h": 390 },
+      { "top": "2", "x": 2287, "y": 680, "w": 100, "h": 100 },
+      { "top": "3", "x": 2287,  "y": 840, "w": 100, "h": 100 },
+      { "top": "4", "x": 2287,  "y": 978, "w": 100, "h": 100 },
+      { "top": "5", "x": 2287,  "y": 1138, "w": 100, "h": 100 },
+      { "top": "6", "x": 2287,  "y": 1280, "w": 100, "h": 100 },
+      { "top": "7", "x": 2287,  "y": 1435, "w": 100, "h": 100 },
+      { "top": "8", "x": 2287,  "y": 1578, "w": 100, "h": 100 },
+      { "top": "9", "x": 2287,  "y": 1730, "w": 100, "h": 100 },
+      { "top": "10", "x": 2287, "y": 1881, "w": 100, "h": 100 },
+      { "top": "11", "x": 2287, "y": 2038, "w": 100, "h": 100 },
+      { "top": "12", "x": 2287, "y": 2185, "w": 100, "h": 100 }
+    ]
+  },
+ "BooyahGames": {
+    "Game1": { "x": 4036, "y": 1060, "size": 60, "color": "#FFFFFF", "font": "Arial", "align": "left" },
+    "Game2": { "x": 4036, "y": 1340, "size": 60, "color": "#FFFFFF", "font": "Arial", "align": "left" },
+    "Game3": { "x": 4036, "y": 1635, "size": 60, "color": "#FFFFFF", "font": "Arial", "align": "left" },
+    "Game4": { "x": 4036, "y": 1938, "size": 60, "color": "#FFFFFF", "font": "Arial", "align": "left" },
+    "Game5": { "x": 10000, "y": 680, "size": 22, "color": "#FFD700", "font": "Arial", "align": "left" },
+    "Game6": { "x": 10000, "y": 680, "size": 22, "color": "#FFD700", "font": "Arial", "align": "left" },
+    "LogosBooyah": [
+      { "game": 1, "x": 4570, "y": 966, "w": 110, "h": 110 },
+      { "game": 2, "x": 4570, "y": 1247, "w": 110, "h": 110 },
+      { "game": 3, "x": 4570, "y": 1540, "w": 110, "h": 110 },
+      { "game": 4, "x": 4570, "y": 1838, "w": 110, "h": 110 },
+      { "game": 5, "x": 50000, "y": 680, "w": 40, "h": 40 },
+      { "game": 6, "x": 50000, "y": 680, "w": 40, "h": 40 }
+    ]
+  },
+  "Top1": {
+    "Top": { "x": 11610, "y": 1607, "lineHeight": 50, "color": "#FFD700", "size": 32, "font": "Prompt", "bold": true, "align": "left" },
+    "Name": { "x": 1166, "y": 1607, "lineHeight": 50, "color": "#FFFFFF", "size": 80, "font": "Prompt", "bold": true, "align": "left" },
+    "Kill": { "x": 1160, "y": 2212, "lineHeight": 50, "color": "#FFFFFF", "size": 116, "font": "Prompt", "bold": true, "align": "center" },
+    "Booyah": { "x": 1647, "y": 1915, "lineHeight": 50, "color": "#FFFFFF", "size": 116, "font": "Prompt", "bold": true, "align": "center" },
+    "Score": { "x": 1710, "y": 2212, "lineHeight": 50, "color": "#FFFFFF", "size": 116, "font": "Prompt", "bold": true, "align": "center" }
+  },
+  "Top2": {
+    "Top": { "x": 10000, "y": 921.8, "lineHeight": 50, "color": "#FFD700", "size": 32, "font": "Prompt", "bold": true, "align": "left" },
+    "Name": { "x": 2400, "y": 741, "lineHeight": 50, "color": "#FFFFFF", "size": 42.6, "font": "Prompt", "bold": true, "align": "left" },
+    "Kill": { "x": 3159, "y": 741, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Booyah": { "x": 3435, "y": 741, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Score": { "x": 3709, "y": 741, "lineHeight": 50, "color": "#FFD700", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" }
+  },
+  "Top3": {
+    "Top": { "x": 10000, "y": 1052.4, "lineHeight": 50, "color": "#FFD700", "size": 32, "font": "Prompt", "bold": true, "align": "left" },
+    "Name": { "x": 2400, "y": 890, "lineHeight": 50, "color": "#FFFFFF", "size": 42.6, "font": "Prompt", "bold": true, "align": "left" },
+    "Kill": { "x": 3159, "y": 890, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Booyah": { "x": 3435, "y": 890, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Score": { "x": 3709, "y": 890, "lineHeight": 50, "color": "#FFD700", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" }
+  },
+  "Top4": {
+    "Top": { "x": 10000, "y": 1183, "lineHeight": 50, "color": "#FFD700", "size": 32, "font": "Prompt", "bold": true, "align": "left" },
+    "Name": { "x": 2400, "y": 1033, "lineHeight": 50, "color": "#FFFFFF", "size": 42.6, "font": "Prompt", "bold": true, "align": "left" },
+    "Kill": { "x": 3159, "y": 1033, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Booyah": { "x": 3435, "y": 1033, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Score": { "x": 3709, "y": 1033, "lineHeight": 50, "color": "#FFD700", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" }
+  },
+  "Top5": {
+    "Top": { "x": 10000, "y": 1313.6, "lineHeight": 50, "color": "#FFD700", "size": 32, "font": "Prompt", "bold": true, "align": "left" },
+    "Name": { "x": 2400, "y": 1183, "lineHeight": 50, "color": "#FFFFFF", "size": 42.6, "font": "Prompt", "bold": true, "align": "left" },
+    "Kill": { "x": 3159, "y": 1183, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Booyah": { "x": 3435, "y": 1183, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Score": { "x": 3709, "y": 1183, "lineHeight": 50, "color": "#FFD700", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" }
+  },
+  "Top6": {
+    "Top": { "x": 10000, "y": 1441.2, "lineHeight": 50, "color": "#FFD700", "size": 32, "font": "Prompt", "bold": true, "align": "left" },
+    "Name": { "x": 2400, "y": 1340, "lineHeight": 50, "color": "#FFFFFF", "size": 42.6, "font": "Prompt", "bold": true, "align": "left" },
+    "Kill": { "x": 3159, "y": 1340, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Booyah": { "x": 3435, "y": 1340, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Score": { "x": 3709, "y": 1340, "lineHeight": 50, "color": "#FFD700", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" }
+  },
+  "Top7": {
+    "Top": { "x": 10000, "y": 1567.7, "lineHeight": 50, "color": "#FFD700", "size": 32, "font": "Prompt", "bold": true, "align": "left" },
+    "Name": { "x": 2400, "y": 1490, "lineHeight": 50, "color": "#FFFFFF", "size": 42.6, "font": "Prompt", "bold": true, "align": "left" },
+    "Kill": { "x": 3159, "y": 1490, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Booyah": { "x": 3435, "y": 1490, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Score": { "x": 3709, "y": 1490, "lineHeight": 50, "color": "#FFD700", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" }
+  },
+  "Top8": {
+    "Top": { "x": 10000, "y": 1702.3, "lineHeight": 50, "color": "#FFD700", "size": 32, "font": "Prompt", "bold": true, "align": "left" },
+    "Name": { "x": 2400, "y": 1645, "lineHeight": 50, "color": "#FFFFFF", "size": 42.6, "font": "Prompt", "bold": true, "align": "left" },
+    "Kill": { "x": 3159, "y": 1645, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Booyah": { "x": 3435, "y": 1645, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Score": { "x": 3709, "y": 1645, "lineHeight": 50, "color": "#FFD700", "size": 48.6, "font": true, "align": "center" }
+  },
+  "Top9": {
+    "Top": { "x": 10000, "y": 1829.9, "lineHeight": 50, "color": "#FFD700", "size": 32, "font": "Prompt", "bold": true, "align": "left" },
+    "Name": { "x": 2400, "y": 1794, "lineHeight": 50, "color": "#FFFFFF", "size": 42.6, "font": "Prompt", "bold": true, "align": "left" },
+    "Kill": { "x": 3159, "y": 1794, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Booyah": { "x": 3435, "y": 1794, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Score": { "x": 3709, "y": 1794, "lineHeight": 50, "color": "#FFD700", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" }
+  },
+  "Top10": {
+    "Top": { "x": 10000, "y": 1965.5, "lineHeight": 50, "color": "#FFD700", "size": 32, "font": "Prompt", "bold": true, "align": "left" },
+    "Name": { "x": 2400, "y": 1935, "lineHeight": 50, "color": "#FFFFFF", "size": 42.6, "font": "Prompt", "bold": true, "align": "left" },
+    "Kill": { "x": 3159, "y": 1935, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Booyah": { "x": 3435, "y": 1935, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Score": { "x": 3709, "y": 1935, "lineHeight": 50, "color": "#FFD700", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" }
+  },
+  "Top11": {
+    "Top": { "x": 10000, "y": 2096.1, "lineHeight": 50, "color": "#FFD700", "size": 32, "font": "Prompt", "bold": true, "align": "left" },
+    "Name": { "x": 2400, "y": 2091, "lineHeight": 50, "color": "#FFFFFF", "size": 42.6, "font": "Prompt", "bold": true, "align": "left" },
+    "Kill": { "x": 3159, "y": 2091, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Booyah": { "x": 3435, "y": 2091, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Score": { "x": 3709, "y": 2091, "lineHeight": 50, "color": "#FFD700", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" }
+  },
+  "Top12": {
+    "Top": { "x": 10000, "y": 2221.5, "lineHeight": 50, "color": "#FFD700", "size": 32, "font": "Prompt", "bold": true, "align": "left" },
+    "Name": { "x": 2400, "y": 2247, "lineHeight": 50, "color": "#FFFFFF", "size": 42.6, "font": "Prompt", "bold": true, "align": "left" },
+    "Kill": { "x": 3159, "y": 2247, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Booyah": { "x": 3435, "y": 2247, "lineHeight": 50, "color": "#FFFFFF", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" },
+    "Score": { "x": 3709, "y": 2247, "lineHeight": 50, "color": "#FFD700", "size": 48.6, "font": "Prompt", "bold": true, "align": "center" }
+  }
+}

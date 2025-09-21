@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "accountId": "6560034675",
+    "senderID": "100080953616589",
+    "key": "SCRIM",
+    "mode": "normal",
+    "cprThreshold": null,
+    "start": "2025-09-08 20:00",
+    "end": "2025-09-08 21:30",
+    "finalMatchCount": 5,
+    "champion": null
+  },
+  "teams": [
+    {
+      "teamKey": "12314935**,22461958**,65600346**,71028890**",
+      "displayName": "AnhVũ1!",
+      "playerIds": [
+        "12314935**",
+        "22461958**",
+        "65600346**",
+        "71028890**"
+      ],
+      "totalScore": 80,
+      "totalKills": 38,
+      "totalBooyahs": 1,
+      "BooyahsGame": [
+        4
+      ],
+      "isEligible": false,
+      "accountNames": [
+        "AnhVũ1!",
+        "em naa cte",
+        "INF　HDang౨ৎ",
+        "INF　Kiêtsad"
+      ],
+      "Top": 1
+    },
+    {
+      "teamKey": "21100663**,24957861**,3480369**,43143270**",
+      "displayName": "MC#TẤNPHÁT",
+      "playerIds": [
+        "21100663**",
+        "24957861**",
+        "3480369**",
+        "43143270**"
+      ],
+      "totalScore": 75,
+      "totalKills": 34,
+      "totalBooyahs": 2,
+      "BooyahsGame": [
+        1,
+        3
+      ],
+      "isEligible": false,
+      "accountNames": [
+        "MC#TẤNPHÁT",
+        "ɢɪáᴏʜᴏàɴg",
+        "FunBoyᵗʰ",
+        "LittleBoyʸⁿ"
+      ],
+      "Top": 2
+    },
+    {
+      "teamKey": "11339177**,14400911**,24054619**,75842981**",
+      "displayName": "BWMヽTDatzz",
+      "playerIds": [
+        "11339177**",
+        "14400911**",
+        "24054619**",
+        "75842981**"
+      ],
+      "totalScore": 59,
+      "totalKills": 35,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "BWMヽTDatzz",
+        "BWMヽTɞảoッ",
+        "BWMヽPhướcLộc",
+        "BWMヽAlan?"
+      ],
+      "Top": 3
+    },
+    {
+      "teamKey": "114092278**,12051570**,12564780**,5983053**",
+      "displayName": "sᴛɢ.ᴄʏʀᴜs",
+      "playerIds": [
+        "114092278**",
+        "12051570**",
+        "12564780**",
+        "5983053**"
+      ],
+      "totalScore": 55,
+      "totalKills": 32,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "sᴛɢ.ᴄʏʀᴜs",
+        "sᴛɢ.ʜᴏᴀɴɢᴠᴜ",
+        "sᴛɢ.ᴇᴋʜᴜᴛ",
+        "sᴛɢ.ʟᴜᴄɪꜰᴇʀ"
+      ],
+      "Top": 4
+    },
+    {
+      "teamKey": "59883336**,87436402**,94824320**,96644462**",
+      "displayName": "DX TrọngKe",
+      "playerIds": [
+        "59883336**",
+        "87436402**",
+        "94824320**",
+        "96644462**"
+      ],
+      "totalScore": 50,
+      "totalKills": 27,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "DX TrọngKe",
+        "ʜᴏ̂̀ɴɢᴛʏ̉ᴠɴ",
+        "VenussHeHeHe",
+        "Over?!....."
+      ],
+      "Top": 5
+    },
+    {
+      "teamKey": "16808514**,71381178**,76845583**,91384592**",
+      "displayName": "#Loser⚡︎",
+      "playerIds": [
+        "16808514**",
+        "71381178**",
+        "76845583**",
+        "91384592**",
+        "10115778**"
+      ],
+      "totalScore": 46,
+      "totalKills": 19,
+      "totalBooyahs": 1,
+      "BooyahsGame": [
+        5
+      ],
+      "isEligible": false,
+      "accountNames": [
+        "#Loser⚡︎",
+        "k12 nợ 20k",
+        "Ẅoaẅ.MC4zzz",
+        "Huy丶lmtϟ"
+      ],
+      "Top": 6
+    },
+    {
+      "teamKey": "15780887**,17657257**,27163133**,6817055**",
+      "displayName": "Giàubỏbạn",
+      "playerIds": [
+        "15780887**",
+        "17657257**",
+        "27163133**",
+        "6817055**",
+        "28821928**"
+      ],
+      "totalScore": 40,
+      "totalKills": 20,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "Giàubỏbạn",
+        "Htus       ?",
+        "CryderS0.MVP",
+        "MzLuann"
+      ],
+      "Top": 7
+    },
+    {
+      "teamKey": "20663494**,39986210**,77524144**,99567480**",
+      "displayName": "Ar.　Shiki",
+      "playerIds": [
+        "20663494**",
+        "39986210**",
+        "77524144**",
+        "99567480**"
+      ],
+      "totalScore": 34,
+      "totalKills": 14,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "Ar.　Shiki",
+        "TNguyễn  ♬",
+        "BOM.TQUAN",
+        "BOM.Wassana"
+      ],
+      "Top": 8
+    },
+    {
+      "teamKey": "123088679**,18272779**,79316114**,91098354**",
+      "displayName": "KL.NDuyxMVP亗",
+      "playerIds": [
+        "123088679**",
+        "18272779**",
+        "79316114**",
+        "91098354**",
+        "39986210**"
+      ],
+      "totalScore": 32,
+      "totalKills": 17,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "KL.NDuyxMVP亗",
+        "Quy1E7E2R0I",
+        "k15ba'cus",
+        "GOW.Q.HUY??"
+      ],
+      "Top": 9
+    },
+    {
+      "teamKey": "3606195**,60527472**,662081**,69567136**",
+      "displayName": "´꒳`ⒷốⓁàⓆⓋ×͜×",
+      "playerIds": [
+        "3606195**",
+        "60527472**",
+        "662081**",
+        "69567136**"
+      ],
+      "totalScore": 27,
+      "totalKills": 4,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "´꒳`ⒷốⓁàⓆⓋ×͜×",
+        "Bbao.KAKAᰔᩚ",
+        "ᴛᴛʜ❖",
+        "dz ko ai =모"
+      ],
+      "Top": 10
+    },
+    {
+      "teamKey": "80709031**,81247753**,83602514**,97644042**",
+      "displayName": "#Yemenᥫ᭡",
+      "playerIds": [
+        "80709031**",
+        "81247753**",
+        "83602514**",
+        "97644042**",
+        "10115778**",
+        "102262714**",
+        "22582189**"
+      ],
+      "totalScore": 16,
+      "totalKills": 2,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "#Yemenᥫ᭡",
+        "khang--báo",
+        "WAG3,kiwi",
+        "maitiendatt모"
+      ],
+      "Top": 11
+    },
+    {
+      "teamKey": "127982865**,46703201**,95229948**,99501156**",
+      "displayName": "LSB.KID",
+      "playerIds": [
+        "127982865**",
+        "46703201**",
+        "95229948**",
+        "99501156**",
+        "9888811**"
+      ],
+      "totalScore": 13,
+      "totalKills": 7,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "LSB.KID",
+        "ATE.QuocAnh?",
+        "_ZzzTGiap...",
+        "GaTay4o7t7F"
+      ],
+      "Top": 12
+    },
+    {
+      "teamKey": "95229948**",
+      "displayName": "Không tên",
+      "playerIds": [
+        "95229948**"
+      ],
+      "totalScore": 12,
+      "totalKills": 0,
+      "totalBooyahs": 1,
+      "BooyahsGame": [
+        2
+      ],
+      "isEligible": false,
+      "accountNames": [],
+      "Top": 13
+    },
+    {
+      "teamKey": "59883336**",
+      "displayName": "Không tên",
+      "playerIds": [
+        "59883336**"
+      ],
+      "totalScore": 9,
+      "totalKills": 0,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [],
+      "Top": 14
+    },
+    {
+      "teamKey": "127982865**",
+      "displayName": "Không tên",
+      "playerIds": [
+        "127982865**"
+      ],
+      "totalScore": 8,
+      "totalKills": 0,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [],
+      "Top": 15
+    },
+    {
+      "teamKey": "75842981**",
+      "displayName": "Không tên",
+      "playerIds": [
+        "75842981**"
+      ],
+      "totalScore": 7,
+      "totalKills": 0,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [],
+      "Top": 16
+    },
+    {
+      "teamKey": "79316114**",
+      "displayName": "Không tên",
+      "playerIds": [
+        "79316114**"
+      ],
+      "totalScore": 6,
+      "totalKills": 0,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [],
+      "Top": 17
+    },
+    {
+      "teamKey": "10115778**",
+      "displayName": "Không tên",
+      "playerIds": [
+        "10115778**"
+      ],
+      "totalScore": 0,
+      "totalKills": 0,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [],
+      "Top": 18
+    }
+  ]
+}

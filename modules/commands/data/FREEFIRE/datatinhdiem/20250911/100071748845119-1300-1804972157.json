@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "accountId": "1804972157",
+    "senderID": "100071748845119",
+    "key": "scoring",
+    "mode": "normal",
+    "cprThreshold": null,
+    "start": "2025-09-11 13:00",
+    "end": "2025-09-11 15:00",
+    "finalMatchCount": 4,
+    "champion": null
+  },
+  "teams": [
+    {
+      "teamKey": "10421953**,18049721**,4383935**,97626183**",
+      "displayName": "AiCảnĐcAnh?",
+      "playerIds": [
+        "10421953**",
+        "18049721**",
+        "4383935**",
+        "97626183**"
+      ],
+      "totalScore": 90,
+      "totalKills": 56,
+      "totalBooyahs": 2,
+      "BooyahsGame": [
+        3,
+        4
+      ],
+      "isEligible": false,
+      "accountNames": [
+        "AiCảnĐcAnh?",
+        "quochieu.ftc",
+        "1606||Nnghia",
+        "KINGEmVu"
+      ],
+      "Top": 1
+    },
+    {
+      "teamKey": "18098320**,26446737**,2681731**,3367697**",
+      "displayName": "AHㅤH.Khang女",
+      "playerIds": [
+        "18098320**",
+        "26446737**",
+        "2681731**",
+        "3367697**"
+      ],
+      "totalScore": 74,
+      "totalKills": 40,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "AHㅤH.Khang女",
+        "AH　N.Anh#",
+        "AH　XuânNghị",
+        "AH　HoangBiム"
+      ],
+      "Top": 2
+    },
+    {
+      "teamKey": "114632188**,22616056**,23529494**,57397599**",
+      "displayName": "War丶prodigy",
+      "playerIds": [
+        "114632188**",
+        "22616056**",
+        "23529494**",
+        "57397599**"
+      ],
+      "totalScore": 46,
+      "totalKills": 29,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "War丶prodigy",
+        "War丶MạnhHùng",
+        "ｈａｉｎａｍ౨ৎ...",
+        "'anhoem>.<'"
+      ],
+      "Top": 3
+    },
+    {
+      "teamKey": "3343765**,34224039**,49706159**,66133667**",
+      "displayName": "husbandcủaem",
+      "playerIds": [
+        "3343765**",
+        "34224039**",
+        "49706159**",
+        "66133667**",
+        "4266697**",
+        "50199826**"
+      ],
+      "totalScore": 43,
+      "totalKills": 20,
+      "totalBooyahs": 1,
+      "BooyahsGame": [
+        2
+      ],
+      "isEligible": false,
+      "accountNames": [
+        "husbandcủaem",
+        "แชมป์ในอนาคต",
+        "ㅤⓂⓤⓢⓐⓡⓐㅤⓩⓩⓩㅤ",
+        "Hya?><"
+      ],
+      "Top": 4
+    },
+    {
+      "teamKey": "18546341**,4583711**,5772279**,775909**",
+      "displayName": "_thphat.",
+      "playerIds": [
+        "18546341**",
+        "4583711**",
+        "5772279**",
+        "775909**"
+      ],
+      "totalScore": 36,
+      "totalKills": 10,
+      "totalBooyahs": 1,
+      "BooyahsGame": [
+        1
+      ],
+      "isEligible": false,
+      "accountNames": [
+        "_thphat.",
+        "XạThủLongAn.",
+        "Như Tú.",
+        "eduyenxinhiu"
+      ],
+      "Top": 5
+    },
+    {
+      "teamKey": "127731207**,20822947**",
+      "displayName": "di  ngu  som",
+      "playerIds": [
+        "127731207**",
+        "20822947**",
+        "80622234**",
+        "18589954**"
+      ],
+      "totalScore": 32,
+      "totalKills": 8,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "di  ngu  som",
+        "SPI.BABY"
+      ],
+      "Top": 6
+    },
+    {
+      "teamKey": "10049674**,112149687**,132322924**,84248458**",
+      "displayName": "HUỲNH_NHỚ²ᵏ",
+      "playerIds": [
+        "10049674**",
+        "112149687**",
+        "132322924**",
+        "84248458**"
+      ],
+      "totalScore": 23,
+      "totalKills": 4,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "HUỲNH_NHỚ²ᵏ",
+        "qdinhớem",
+        "QBB_MASTER",
+        "Ngoc5a1m9P"
+      ],
+      "Top": 7
+    },
+    {
+      "teamKey": "44612195**,76727758**,86520562**,88282138**",
+      "displayName": "em nguyen dz",
+      "playerIds": [
+        "44612195**",
+        "76727758**",
+        "86520562**",
+        "88282138**",
+        "50199826**"
+      ],
+      "totalScore": 19,
+      "totalKills": 5,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "em nguyen dz",
+        "ikwh.huynju",
+        "ᴛᴋ    ⁱᵘᵉᵐ",
+        "XzneymarjrzX"
+      ],
+      "Top": 8
+    },
+    {
+      "teamKey": "111092606**,42740275**,79936826**",
+      "displayName": "HoàngメBiu",
+      "playerIds": [
+        "111092606**",
+        "42740275**",
+        "79936826**"
+      ],
+      "totalScore": 8,
+      "totalKills": 3,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "HoàngメBiu",
+        "H9Hihihii",
+        "79丶Kvan"
+      ],
+      "Top": 9
+    },
+    {
+      "teamKey": "55080868**,9373951**",
+      "displayName": "#nqm'",
+      "playerIds": [
+        "55080868**",
+        "9373951**"
+      ],
+      "totalScore": 7,
+      "totalKills": 1,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "#nqm'",
+        "Woaw.BUM㊋"
+      ],
+      "Top": 10
+    },
+    {
+      "teamKey": "10049674**,94343263**",
+      "displayName": "HUỲNH_NHỚ²ᵏ",
+      "playerIds": [
+        "10049674**",
+        "94343263**"
+      ],
+      "totalScore": 7,
+      "totalKills": 0,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "HUỲNH_NHỚ²ᵏ",
+        "thang.emhay"
+      ],
+      "Top": 11
+    },
+    {
+      "teamKey": "18165679**",
+      "displayName": "Không tên",
+      "playerIds": [
+        "18165679**"
+      ],
+      "totalScore": 6,
+      "totalKills": 1,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [],
+      "Top": 12
+    }
+  ]
+}

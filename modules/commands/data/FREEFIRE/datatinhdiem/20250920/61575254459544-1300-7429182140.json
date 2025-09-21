@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "accountId": "7429182140",
+    "senderID": "61575254459544",
+    "key": "KOAL",
+    "mode": "cpr",
+    "cprThreshold": 50,
+    "start": "2025-09-20 13:00",
+    "end": "2025-09-20 15:00",
+    "finalMatchCount": 4,
+    "champion": {
+      "teamKey": "20874337**,2705870**,5323137**,9149275**",
+      "matchWon": 4
+    }
+  },
+  "teams": [
+    {
+      "teamKey": "20874337**,2705870**,5323137**,9149275**",
+      "displayName": "NSE.AhTienn?",
+      "playerIds": [
+        "20874337**",
+        "2705870**",
+        "5323137**",
+        "9149275**"
+      ],
+      "totalScore": 97,
+      "totalKills": 53,
+      "totalBooyahs": 3,
+      "BooyahsGame": [
+        1,
+        3,
+        4
+      ],
+      "isEligible": true,
+      "accountNames": [
+        "NSE.AhTienn?",
+        "_iw.ngoccute",
+        "vao1111",
+        "OP YaZa✓"
+      ],
+      "Top": 1
+    },
+    {
+      "teamKey": "12931749**,14498136**,18724585**,23120108**",
+      "displayName": "BC.pdat",
+      "playerIds": [
+        "12931749**",
+        "14498136**",
+        "18724585**",
+        "23120108**"
+      ],
+      "totalScore": 65,
+      "totalKills": 31,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": true,
+      "accountNames": [
+        "BC.pdat",
+        "EmToan7",
+        "BC.missed",
+        "qtoan౨ৎ"
+      ],
+      "Top": 2
+    },
+    {
+      "teamKey": "28359220**,664562**,75776592**,91657211**",
+      "displayName": "justprove9",
+      "playerIds": [
+        "28359220**",
+        "664562**",
+        "75776592**",
+        "91657211**"
+      ],
+      "totalScore": 63,
+      "totalKills": 34,
+      "totalBooyahs": 1,
+      "BooyahsGame": [
+        2
+      ],
+      "isEligible": true,
+      "accountNames": [
+        "justprove9",
+        "waow\"yamanl",
+        "RIKER?",
+        "emdatmelody."
+      ],
+      "Top": 3
+    },
+    {
+      "teamKey": "11400007**,64099641**,74291821**,77596813**",
+      "displayName": ".user 1%",
+      "playerIds": [
+        "11400007**",
+        "64099641**",
+        "74291821**",
+        "77596813**"
+      ],
+      "totalScore": 43,
+      "totalKills": 18,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        ".user 1%",
+        "bacxiunong•",
+        "Athuuメᴬᵏⁱᵉᵗᵗ",
+        "AN•BRIGHT"
+      ],
+      "Top": 4
+    },
+    {
+      "teamKey": "12334909**,133442161**,72390206**,9614620**",
+      "displayName": "Thủ Khoa AO1",
+      "playerIds": [
+        "12334909**",
+        "133442161**",
+        "72390206**",
+        "9614620**",
+        "46813105**",
+        "29735415**"
+      ],
+      "totalScore": 41,
+      "totalKills": 21,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "Thủ Khoa AO1",
+        "KL丶BIKAY!",
+        "ɴʜɪếᴜ ᴇᴍ ɴʜờ",
+        "TBinhˇ"
+      ],
+      "Top": 5
+    },
+    {
+      "teamKey": "62264906**,77791260**,83899596**,92966557**",
+      "displayName": "BWMヽDuyPhú!",
+      "playerIds": [
+        "62264906**",
+        "77791260**",
+        "83899596**",
+        "92966557**"
+      ],
+      "totalScore": 37,
+      "totalKills": 16,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "BWMヽDuyPhú!",
+        "ᴆᴀ̆ɴɢᴊʀ²⁰¹¹",
+        "12ATヽshadow♐",
+        "MajinヽSewMiu"
+      ],
+      "Top": 6
+    },
+    {
+      "teamKey": "2554621**,28019805**,366581**,63031031**",
+      "displayName": "HTE.EZŁØVE모\"",
+      "playerIds": [
+        "2554621**",
+        "28019805**",
+        "366581**",
+        "63031031**",
+        "13254173**"
+      ],
+      "totalScore": 27,
+      "totalKills": 8,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "HTE.EZŁØVE모\"",
+        "нoàng•тử•gιó",
+        "ＭＲ.ＨＥＲＯ┊ＶＮ亗",
+        "HTE^^.ŐŹĔŃ亗"
+      ],
+      "Top": 7
+    },
+    {
+      "teamKey": "13863628**,26258020**,26838229**,8370677**",
+      "displayName": "-MạnhTrường-",
+      "playerIds": [
+        "13863628**",
+        "26258020**",
+        "26838229**",
+        "8370677**",
+        "47119415**"
+      ],
+      "totalScore": 25,
+      "totalKills": 9,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "-MạnhTrường-",
+        "H-Phuulh亗",
+        "『FML』Mon✿༢",
+        "69ცắՈgà︵²ᵏ⁴"
+      ],
+      "Top": 8
+    },
+    {
+      "teamKey": "19839371**,25998289**,32665211**,56447542**",
+      "displayName": "miss.14౨ৎ",
+      "playerIds": [
+        "19839371**",
+        "25998289**",
+        "32665211**",
+        "56447542**"
+      ],
+      "totalScore": 20,
+      "totalKills": 6,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "miss.14౨ৎ",
+        "prođuba",
+        "LOVE—Ó⁠╭⁠╮⁠Ò",
+        "@taptiaawm"
+      ],
+      "Top": 9
+    }
+  ]
+}

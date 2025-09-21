@@ -1,0 +1,452 @@
+{
+  "meta": {
+    "accountId": "7986814595",
+    "senderID": "61579075555668",
+    "key": "CUSTOM",
+    "mode": "normal",
+    "cprThreshold": null,
+    "start": "2025-09-08 20:00",
+    "end": "2025-09-08 21:30",
+    "finalMatchCount": 4,
+    "champion": null
+  },
+  "teams": [
+    {
+      "teamKey": "16712493**,2154805**,55909904**,79868145**",
+      "displayName": "ムＢá Ｔàｉूाीू",
+      "playerIds": [
+        "16712493**",
+        "2154805**",
+        "55909904**",
+        "79868145**",
+        "51077540**"
+      ],
+      "totalScore": 72,
+      "totalKills": 44,
+      "totalBooyahs": 1,
+      "BooyahsGame": [
+        3
+      ],
+      "isEligible": false,
+      "accountNames": [
+        "ムＢá Ｔàｉूाीू",
+        "VCFF女",
+        "NTN┊Mquaan㊪",
+        "모┊Brxzzメ¹ᵛˢ⁴"
+      ],
+      "Top": 1
+    },
+    {
+      "teamKey": "1010657**,24143051**,4845186**,7650141**",
+      "displayName": "LeePhước07",
+      "playerIds": [
+        "1010657**",
+        "24143051**",
+        "4845186**",
+        "7650141**",
+        "17880409**",
+        "14016566**"
+      ],
+      "totalScore": 69,
+      "totalKills": 46,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "LeePhước07",
+        "PSE　masterᵎ",
+        "ｋｕｋｕｓｈｉｂｏ¿",
+        "sauconmua"
+      ],
+      "Top": 2
+    },
+    {
+      "teamKey": "28516882**,51077540**,6793135**,75989794**",
+      "displayName": "PQ.DyKhanh~",
+      "playerIds": [
+        "28516882**",
+        "51077540**",
+        "6793135**",
+        "75989794**",
+        "49741433**",
+        "56371597**"
+      ],
+      "totalScore": 26,
+      "totalKills": 10,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "PQ.DyKhanh~",
+        "ᵃ.ⁿʰᵒ.ᵉ°^°",
+        "bondz01┊MVP〆",
+        "GOAT  F1FIVE"
+      ],
+      "Top": 3
+    },
+    {
+      "teamKey": "112168429**,17780846**,26492604**,92087906**",
+      "displayName": "EzE丶Obito",
+      "playerIds": [
+        "112168429**",
+        "17780846**",
+        "26492604**",
+        "92087906**"
+      ],
+      "totalScore": 24,
+      "totalKills": 12,
+      "totalBooyahs": 1,
+      "BooyahsGame": [
+        2
+      ],
+      "isEligible": false,
+      "accountNames": [
+        "EzE丶Obito",
+        "ᴅũɴɢ_ɴᴏ1ᴜʙғғ",
+        "DARKㅤㅤUyên",
+        "㊝Lỉn-cân4.모"
+      ],
+      "Top": 4
+    },
+    {
+      "teamKey": "110671018**,19726010**,31219090**,40291598**",
+      "displayName": "td_b11",
+      "playerIds": [
+        "110671018**",
+        "19726010**",
+        "31219090**",
+        "40291598**"
+      ],
+      "totalScore": 23,
+      "totalKills": 9,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "td_b11",
+        "꧂ø¤º°«—™◘",
+        "ZzZ.tomto",
+        "\"Anh\"Thư\"ʚɞ"
+      ],
+      "Top": 5
+    },
+    {
+      "teamKey": "118590565**,13616254**,23559617**,91768864**",
+      "displayName": "bánh mì khog",
+      "playerIds": [
+        "118590565**",
+        "13616254**",
+        "23559617**",
+        "91768864**"
+      ],
+      "totalScore": 21,
+      "totalKills": 5,
+      "totalBooyahs": 1,
+      "BooyahsGame": [
+        1
+      ],
+      "isEligible": false,
+      "accountNames": [
+        "bánh mì khog",
+        "✿ɴᴛ.ʙʟᴀᴄᴋ",
+        "UBT_Maxx",
+        "TNㅤThịnh?"
+      ],
+      "Top": 6
+    },
+    {
+      "teamKey": "14295657**,14820976**,70521742**,91492026**",
+      "displayName": "mjnh0456O",
+      "playerIds": [
+        "14295657**",
+        "14820976**",
+        "70521742**",
+        "91492026**"
+      ],
+      "totalScore": 18,
+      "totalKills": 5,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "mjnh0456O",
+        "e vu k15",
+        "㊝ＳＰＯＲＴムムＨạＯ모",
+        "gphuc?!♡"
+      ],
+      "Top": 7
+    },
+    {
+      "teamKey": "16171266**,22998435**,34768791**,90988593**",
+      "displayName": "ムＰＡＬＭＥＲ亗",
+      "playerIds": [
+        "16171266**",
+        "22998435**",
+        "34768791**",
+        "90988593**"
+      ],
+      "totalScore": 15,
+      "totalKills": 10,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "ムＰＡＬＭＥＲ亗",
+        "PE.NHẬTTHIÊN",
+        "IM_Kingzzz",
+        "NhatHuyZzz,"
+      ],
+      "Top": 8
+    },
+    {
+      "teamKey": "26466563**,5149686**,91434361**,91977518**",
+      "displayName": "₩oaw.Aizit",
+      "playerIds": [
+        "26466563**",
+        "5149686**",
+        "91434361**",
+        "91977518**",
+        "51077540**"
+      ],
+      "totalScore": 15,
+      "totalKills": 2,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "₩oaw.Aizit",
+        "Tower?.",
+        "ThànhĐại!!",
+        "㋰ᴛᴀʟᴇɴᴛ㊪"
+      ],
+      "Top": 9
+    },
+    {
+      "teamKey": "40489582**,52189555**,77558800**",
+      "displayName": "ᴛᵒᵇⁱ☂",
+      "playerIds": [
+        "40489582**",
+        "52189555**",
+        "77558800**",
+        "36423347**"
+      ],
+      "totalScore": 12,
+      "totalKills": 3,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "ᴛᵒᵇⁱ☂",
+        "BTE.NayxTwoo",
+        "ミ⑦①т.тнuậɴ彡"
+      ],
+      "Top": 10
+    },
+    {
+      "teamKey": "25029442**,51061549**,83513844**,98143011**",
+      "displayName": "18+babishark",
+      "playerIds": [
+        "25029442**",
+        "51061549**",
+        "83513844**",
+        "98143011**"
+      ],
+      "totalScore": 10,
+      "totalKills": 5,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "18+babishark",
+        "๖βσίη❍࿐",
+        "luv p nhu",
+        "miss em 24h༗"
+      ],
+      "Top": 11
+    },
+    {
+      "teamKey": "15838664**,76768547**,79213523**,81054513**",
+      "displayName": "tiếcgì1sao♪",
+      "playerIds": [
+        "15838664**",
+        "76768547**",
+        "79213523**",
+        "81054513**"
+      ],
+      "totalScore": 9,
+      "totalKills": 4,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "tiếcgì1sao♪",
+        "FanAnhJack❄",
+        "@??■",
+        "《κнáɴнмιɴн亗》"
+      ],
+      "Top": 12
+    },
+    {
+      "teamKey": "3395026**,45492793**,49705624**,81532812**",
+      "displayName": "Vua'ĐÈ'Giáp↑",
+      "playerIds": [
+        "3395026**",
+        "45492793**",
+        "49705624**",
+        "81532812**"
+      ],
+      "totalScore": 6,
+      "totalKills": 1,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "Vua'ĐÈ'Giáp↑",
+        "GHưnglàDAD!!",
+        "°DMT_PHAT°✓",
+        "NSE.   M3P 亗"
+      ],
+      "Top": 13
+    },
+    {
+      "teamKey": "13322473**,62042560**,76863733**,80903335**",
+      "displayName": "Dũng™π:",
+      "playerIds": [
+        "13322473**",
+        "62042560**",
+        "76863733**",
+        "80903335**"
+      ],
+      "totalScore": 6,
+      "totalKills": 0,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "Dũng™π:",
+        "emkhanh.cte亗",
+        "BSFF'GOAT'HI",
+        "tây2ạnhh"
+      ],
+      "Top": 14
+    },
+    {
+      "teamKey": "33991198**,36888189**,78950592**",
+      "displayName": "pickgodz147",
+      "playerIds": [
+        "33991198**",
+        "36888189**",
+        "78950592**"
+      ],
+      "totalScore": 5,
+      "totalKills": 0,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "pickgodz147",
+        "ᴵᴬᴹⓋⓘếⓣϟⓈơⓝ亗",
+        "´꒳`ᴀɴsᴇᴇтìɴн"
+      ],
+      "Top": 15
+    },
+    {
+      "teamKey": "29589323**",
+      "displayName": "Không tên",
+      "playerIds": [
+        "29589323**"
+      ],
+      "totalScore": 4,
+      "totalKills": 0,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [],
+      "Top": 16
+    },
+    {
+      "teamKey": "10073533**,13691551**,79868145**",
+      "displayName": "Rin　FF　",
+      "playerIds": [
+        "10073533**",
+        "13691551**",
+        "79868145**"
+      ],
+      "totalScore": 4,
+      "totalKills": 0,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "Rin　FF　",
+        "TodakuV1250H",
+        "NTN┊Mquaan㊪"
+      ],
+      "Top": 17
+    },
+    {
+      "teamKey": "18845828**,33647980**,57189152**",
+      "displayName": "❛❜nhn8×͜×",
+      "playerIds": [
+        "18845828**",
+        "33647980**",
+        "57189152**"
+      ],
+      "totalScore": 3,
+      "totalKills": 0,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "❛❜nhn8×͜×",
+        "㊝ムTRẦNムAN모",
+        "Harami亗"
+      ],
+      "Top": 18
+    },
+    {
+      "teamKey": "17780846**,32537395**,3651822**,58594859**",
+      "displayName": "Not yours...",
+      "playerIds": [
+        "17780846**",
+        "32537395**",
+        "3651822**",
+        "58594859**"
+      ],
+      "totalScore": 0,
+      "totalKills": 0,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "Not yours...",
+        "bf　kaiser㋰",
+        "EzE丶Obito",
+        "ＤＩＧＧＯＲＩ:"
+      ],
+      "Top": 19
+    },
+    {
+      "teamKey": "101075352**,56371597**,73607202**,77558800**",
+      "displayName": "ông.sói*",
+      "playerIds": [
+        "101075352**",
+        "56371597**",
+        "73607202**",
+        "77558800**"
+      ],
+      "totalScore": 0,
+      "totalKills": 0,
+      "totalBooyahs": 0,
+      "BooyahsGame": [],
+      "isEligible": false,
+      "accountNames": [
+        "ông.sói*",
+        "(この時間)^_^〜",
+        "BTE.NayxTwoo",
+        "anhkhoa౨ৎ"
+      ],
+      "Top": 20
+    }
+  ]
+}
